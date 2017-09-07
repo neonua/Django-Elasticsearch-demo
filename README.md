@@ -7,8 +7,8 @@ You need install Elasticsearch 5
 3) python manage.py createsuperuser
 4) python manage.py shell
 
-python manage.py
-bulk_indexing()
+5) python manage.py
+6) bulk_indexing()
 
 And them add data in database.
 To find use params 'q'. Example:
